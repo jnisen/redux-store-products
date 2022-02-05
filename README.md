@@ -1,6 +1,8 @@
 # redux-store-products
 Project using Redux
 
+[Source](https://www.udemy.com/)
+
 
 # Getting Started with Create React App
 
