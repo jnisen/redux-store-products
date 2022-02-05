@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Jugo de Zanahoria",
+      "price": "200"
+    },
+    {
+      "id": 2,
+      "name": "Jugo de Naranja",
+      "price": "1"
+    },
+    {
+      "id": 3,
+      "name": "Jugo de Naranja",
+      "price": "300"
+    },
+    {
+      "name": "Pringles",
+      "price": 23,
+      "id": 4
+    },
+    {
+      "name": "Pepe",
+      "price": "22",
+      "id": 5
+    },
+    {
+      "name": "avce",
+      "price": 22,
+      "id": 6
+    }
+  ]
+}
